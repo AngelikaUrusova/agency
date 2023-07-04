@@ -1,0 +1,41 @@
+@media screen and (max-width: 1024px) {
+
+        .block__one {
+            margin-top: 0;
+            margin-left: calc(50% - 1024px / 2);
+            margin-right: calc(50% - 1024px / 2);
+            }
+        
+        
+        .block__two {
+            margin-left: calc(50% - 1024px / 2);
+            margin-right: calc(50% - 1024px / 2);
+            flex-wrap: wrap;
+        }
+    
+        
+    
+        /* .do-you-know {
+            margin-left: calc(50% - 539px / 2);
+            margin-right: calc(50% - 539px / 2);
+        } */
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
