@@ -67,6 +67,14 @@
         margin-left: 5px;
     }
 
+    .head__photo {
+        width: 70%;
+    }
+
+    .container__our_team {
+        margin-left: 10px;
+    }
+
     .block__five {
         padding-top: 60px;
         padding-bottom: 10px;
@@ -115,6 +123,9 @@
         width: 90%;
     }
 
+    .block__info_additional {
+        display: none;
+    }
     .footer {
         margin-top: 0;
     }
